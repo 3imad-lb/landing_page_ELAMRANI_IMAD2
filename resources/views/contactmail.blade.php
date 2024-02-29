@@ -10,7 +10,7 @@
     
     <h2>hello {{$name}}</h2>
 
-    <h3>subject : {{$subject}}</h3>
+    <h3>subjectttt : {{$subject}}</h3>
 
     <p>{{$body}}</p>
 
